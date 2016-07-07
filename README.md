@@ -1,4 +1,4 @@
-# CPU-Jitter based Random Number Generator block device
+# CPU-Jitter based Random Number Generator (character device)
 
 * dependency: libfuse
 * build: `make`
